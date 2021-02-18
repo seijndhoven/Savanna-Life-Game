@@ -1,0 +1,10 @@
+# Git ignore file
+**/.DS_Store
+**/.gitkeep
+
+*/*/build/*.html
+build/
+*.opt
+*.compileinfo
+
+*~
