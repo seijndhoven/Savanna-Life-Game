@@ -1,10 +1,10 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Drawing;
-using System.Reflection;
-using SavannaLifeGame;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SavannaLifeGame.Data;
+using SavannaLifeGame.Source;
 
-namespace SavannaLifeGameTests
+namespace SavannaLifeGameTests.Tests
 {
     [TestClass()]
     public class GrassTests

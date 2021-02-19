@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using SavannaLifeGame.Data;
 
-namespace SavannaLifeGame
+namespace SavannaLifeGame.Source
 {
     [Serializable]
     public abstract class Animal : Entity

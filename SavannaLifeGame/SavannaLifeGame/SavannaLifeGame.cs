@@ -1,11 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Runtime.Serialization;
 using System.Security;
 using System.Windows.Forms;
+using SavannaLifeGame.Data;
+using SavannaLifeGame.Source;
 
 namespace SavannaLifeGame
 {
