@@ -1,4 +1,4 @@
-﻿namespace SavannaLifeGame
+﻿namespace SavannaLifeGame.Data
 {
     public enum EntityTypes
     {

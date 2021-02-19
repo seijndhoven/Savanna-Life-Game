@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Drawing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SavannaLifeGame;
+using SavannaLifeGame.Data;
+using SavannaLifeGame.Source;
 
-namespace SavannaLifeGameTests
+namespace SavannaLifeGameTests.Tests
 {
     [TestClass()]
     public class HippopotamusTests

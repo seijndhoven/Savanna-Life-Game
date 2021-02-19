@@ -57,11 +57,11 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="GameWorldTests.cs" />
-    <Compile Include="GazelleTests.cs" />
-    <Compile Include="GrassTests.cs" />
-    <Compile Include="HippopotamusTests.cs" />
-    <Compile Include="LeopardTests.cs" />
+    <Compile Include="Tests\GameWorldTests.cs" />
+    <Compile Include="Tests\GazelleTests.cs" />
+    <Compile Include="Tests\GrassTests.cs" />
+    <Compile Include="Tests\HippopotamusTests.cs" />
+    <Compile Include="Tests\LeopardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -73,6 +73,7 @@
       <Name>SavannaLifeGame</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
