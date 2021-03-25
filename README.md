@@ -1,4 +1,4 @@
-# Savanna-Life-Game
+# SavannaLifeGame
 
 This is a simple simulation based game I made for a school project.
 
